@@ -1,4 +1,4 @@
-# Coffe_Sales
+# Coffee_Sales
 Created Coffee Sales Dashboard using Excel.
 
 Coffee+Shop+Sales.zip --> It contains raw data which is taken from https://mavenanalytics.io/data-playground?pageSize=20
